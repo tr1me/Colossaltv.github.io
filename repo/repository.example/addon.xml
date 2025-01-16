@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="ADDON_ID_HERE" name="COLOSSALTV" version="V1" provider-name="Colossaltv">
+<addon id="5503" name="COLOSSALTV" version="V1" provider-name="Colossaltv">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/tr1me/COLOSSALTV/main/repo/zips/addons.xml</info>
