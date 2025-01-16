@@ -13,8 +13,8 @@
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
-            <icon>"D:\COLOSSAL\ColossallogoMAIN.png"</icon>
-            <fanart>"D:\COLOSSAL\colossallogo.png"</fanart>
+            <icon>"ColossallogoMAIN.png"</icon>
+            <fanart>"ColossallogoMAIN.png"</fanart>
         </assets>
     </extension>
 </addon>
