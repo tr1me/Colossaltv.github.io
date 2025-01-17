@@ -1,9 +1,9 @@
 id="5503"
-version="1.0.0"
+version="V1"
 zip="https://github.com/tr1me/ColossalTV/tree/master"
 
 name="ColossalTV"
-version="1.0"
+version="V1"
 url="https://www.dropbox.com/scl/fi/yxvmzrsdp979ohzyvtg1q/Colossaltvbuild.zip?rlkey=n7vddc1dkwimw9dibr92jf6tg&st=3t8b6bi8&dl=1"
 minor="http://"
 gui="http://your.guisettings.url/"
